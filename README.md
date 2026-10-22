@@ -210,6 +210,7 @@ Through this project, I practiced:
 
 ## Author
 
-**Purvesh Tapkir**
+
+Priyanshu Yadav
 
 SQL / Database Learning Project
